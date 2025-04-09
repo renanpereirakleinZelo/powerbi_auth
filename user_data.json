@@ -1,0 +1,43 @@
+{
+    "bni_bi": {
+      "password": "bni2025zelo",
+      "dashboard": "<iframe title='BNI' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiYTk4ODZlOTktZjM5Yi00M2Y3LWIzZGItNjM5ODMwNmU4ZjBiIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9&embedImagePlaceholder=true' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "annoni_bi": {
+      "password": "annoni2025zelo",
+      "dashboard": "<iframe title='Annoni' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiOGI3OWNiMWEtY2VlYy00MjcwLWIwZDEtMmUxMTY4YzU3YTZjIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "carol_bi": {
+      "password": "carol2025zelo",
+      "dashboard": "<iframe title='Carol Cabral' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMjE4ODZlNzktYTM4Yi00NWI0LWFiYzAtZmFkMjM0OGRjZjNmIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "compreender_bi": {
+      "password": "compreender2025zelo",
+      "dashboard": "<iframe title='Compreender Para Atuar - Desktop' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMGIxMjA4MzAtNzYyYi00Y2M2LWIwMjgtOTM5ZjQzZDNhYWM0IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "desconzi_bi": {
+      "password": "desconzi2025zelo",
+      "dashboard": "<iframe title='Desconzi' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiNTE3ZmY5OWUtM2NhZC00MDYxLWE1NDYtOThhMjc4ZWQ1ZDJiIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "gs_bi": {
+      "password": "gs2025zelo",
+      "dashboard": "<iframe title='GS' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiNWZkODcxZWItNDViNC00ZmZkLTk2ZmQtN2RkNjEwZjAwOTg1IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "mobih_bi": {
+      "password": "mobih2025zelo",
+      "dashboard": "<iframe title='Mobih' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiZDY4MDU2NTYtN2UyMy00YzVjLWI3MzAtZjFlOTk2YTdmMzZlIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "nua_bi": {
+      "password": "nua2025zelo",
+      "dashboard": "<iframe title='Nua Arq' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMGExNTZiY2ItYWNjYS00N2M3LWExOTEtNDZhZTQ4NzUyZjA4IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "temporea_bi": {
+      "password": "temporea2025zelo",
+      "dashboard": "<iframe title='Temporea' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiZGZmY2RlNzItNzhmNi00M2VkLTkyN2EtMmJhZTc0YmYwMjdhIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "wr_bi": {
+      "password": "wr2025zelo",
+      "dashboard": "<iframe title='WR Cassol - Copia - Copia' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMWQ1ZTkzOTktM2UxZS00ZDFjLTllYTEtNmJhMjdlNDBjZGU4IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    }
+  }
+  

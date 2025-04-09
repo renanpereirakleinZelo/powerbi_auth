@@ -1,0 +1,39 @@
+bni_bi
+bni2025zelo
+<iframe title="BNI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTk4ODZlOTktZjM5Yi00M2Y3LWIzZGItNjM5ODMwNmU4ZjBiIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+
+annoni_bi
+annoni2025zelo
+<iframe title="Annoni" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGI3OWNiMWEtY2VlYy00MjcwLWIwZDEtMmUxMTY4YzU3YTZjIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+carol_bi
+carol2025zelo
+<iframe title="Carol Cabral" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjE4ODZlNzktYTM4Yi00NWI0LWFiYzAtZmFkMjM0OGRjZjNmIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+compreender_bi
+compreender2025zelo
+<iframe title="Compreender Para Atuar - Desktop" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGIxMjA4MzAtNzYyYi00Y2M2LWIwMjgtOTM5ZjQzZDNhYWM0IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+desconzi_bi
+desconzi2025zelo
+<iframe title="Desconzi" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTE3ZmY5OWUtM2NhZC00MDYxLWE1NDYtOThhMjc4ZWQ1ZDJiIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+gs_bi
+gs2025zelo
+<iframe title="GS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWZkODcxZWItNDViNC00ZmZkLTk2ZmQtN2RkNjEwZjAwOTg1IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+mobih_bi
+mobih2025zelo
+<iframe title="Mobih" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDY4MDU2NTYtN2UyMy00YzVjLWI3MzAtZjFlOTk2YTdmMzZlIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+nua_bi
+nua2025zelo
+<iframe title="Nua Arq" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGExNTZiY2ItYWNjYS00N2M3LWExOTEtNDZhZTQ4NzUyZjA4IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+temporea_bi
+temporea2025zelo
+<iframe title="Temporea" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGZmY2RlNzItNzhmNi00M2VkLTkyN2EtMmJhZTc0YmYwMjdhIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+wr_bi
+wr2025zelo
+<iframe title="WR Cassol - Copia - Copia" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWQ1ZTkzOTktM2UxZS00ZDFjLTllYTEtNmJhMjdlNDBjZGU4IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
