@@ -1,48 +1,55 @@
 {
-  "bni_bi": {
+    "bni_bi": {
       "password": "Bni2025!Z#lo$",
       "dashboard": "<iframe title='BNI' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiYTk4ODZlOTktZjM5Yi00M2Y3LWIzZGItNjM5ODMwNmU4ZjBiIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9&embedImagePlaceholder=true' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "annoni_bi": {
+    },
+    "annoni_bi": {
       "password": "An@2025#N!on1",
       "dashboard": "<iframe title='Annoni' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiOGI3OWNiMWEtY2VlYy00MjcwLWIwZDEtMmUxMTY4YzU3YTZjIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "carol_bi": {
+    },
+    "carol_bi": {
       "password": "Ca@2025R#0l$",
       "dashboard": "<iframe title='Carol Cabral' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMjE4ODZlNzktYTM4Yi00NWI0LWFiYzAtZmFkMjM0OGRjZjNmIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "compreender_bi": {
+    },
+    "compreender_bi": {
       "password": "Co@2025Pr#nd!",
       "dashboard": "<iframe title='Compreender Para Atuar - Desktop' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMGIxMjA4MzAtNzYyYi00Y2M2LWIwMjgtOTM5ZjQzZDNhYWM0IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "desconzi_bi": {
+    },
+    "desconzi_bi": {
       "password": "De$2025Co#nZ!",
       "dashboard": "<iframe title='Desconzi' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiNTE3ZmY5OWUtM2NhZC00MDYxLWE1NDYtOThhMjc4ZWQ1ZDJiIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "gs_bi": {
+    },
+    "gs_bi": {
       "password": "G$2025!S#",
       "dashboard": "<iframe title='GS' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiNWZkODcxZWItNDViNC00ZmZkLTk2ZmQtN2RkNjEwZjAwOTg1IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "mobih_bi": {
+    },
+    "mobih_bi": {
       "password": "M0@2025Bi#h$",
       "dashboard": "<iframe title='Mobih' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiZDY4MDU2NTYtN2UyMy00YzVjLWI3MzAtZjFlOTk2YTdmMzZlIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "nua_bi": {
+    },
+    "nua_bi": {
       "password": "NuA@2025!R#q",
       "dashboard": "<iframe title='Nua Arq' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMGExNTZiY2ItYWNjYS00N2M3LWExOTEtNDZhZTQ4NzUyZjA4IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "temporea_bi": {
+    },
+    "temporea_bi": {
       "password": "T!m2025#P@rA",
       "dashboard": "<iframe title='Temporea' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiZGZmY2RlNzItNzhmNi00M2VkLTkyN2EtMmJhZTc0YmYwMjdhIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "wr_bi": {
+    },
+    "wr_bi": {
       "password": "Wr@2025#Ca$$",
       "dashboard": "<iframe title='WR Cassol - Copia - Copia' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMWQ1ZTkzOTktM2UxZS00ZDFjLTllYTEtNmJhMjdlNDBjZGU4IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  },
-  "modelo_verde": {
-    "password": "con$tut0r4",
-    "dashboard": "<iframe title='Construtora Verde' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiODQ3YzdkNmMtZGM5OC00MWNkLWJmNDktYzk3ZjAzNmVjNmMyIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-}
-}
-
+    },
+    "modelo_verde": {
+      "password": "con$tut0r4",
+      "dashboard": "<iframe title='Modelo Verde Construtora' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMWE5NGVkZTgtN2ZlYi00Yzg3LWEzNGUtYTM2MTQ1ZjRjZjc0IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "modelo_vermelho": {
+      "password": "h@m8urGu&r",
+      "dashboard": "<iframe title='Modelo Vermelho Lancheria' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiNTVlZTZkODctNjhiYi00YzA1LWE0NmUtOWVhMDBjOWYwZjIwIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    },
+    "modelo_preto": {
+      "password": "4rQu1t&7ur4",
+      "dashboard": "<iframe title='Modelo Preto Arquitetura' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiODQwNjc3YzUtODcwMC00NTIzLWE3ODItMTg1NTMyM2JhZjI2IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
+    }
+  }
   

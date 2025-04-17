@@ -38,7 +38,19 @@
   "wr_bi": {
       "password": "Wr@2025#Ca$$",
       "dashboard": "<iframe title='WR Cassol - Copia - Copia' width='600' height='373.5' src='https://app.powerbi.com/view?r=eyJrIjoiMWQ1ZTkzOTktM2UxZS00ZDFjLTllYTEtNmJhMjdlNDBjZGU4IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9' frameborder='0' allowFullScreen='true'></iframe>"
-  }
+  },
+  "modelo_verde": {
+    "password": "con$tut0r4",
+    "dashboard": "<iframe title="modelo_verde_construtora" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWE5NGVkZTgtN2ZlYi00Yzg3LWEzNGUtYTM2MTQ1ZjRjZjc0IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>"
+},
+  "modelo_vermelho": {
+    "password": "h@m8urGu&r",
+    "dashboard": "<iframe title="modelo_vermelho_lancheria" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTVlZTZkODctNjhiYi00YzA1LWE0NmUtOWVhMDBjOWYwZjIwIiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>"
+},
+  "modelo_preto": {
+    "password": "4rQu1t&7ur4",
+    "dashboard": "<iframe title="modelo_preto_arquitetura" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODQwNjc3YzUtODcwMC00NTIzLWE3ODItMTg1NTMyM2JhZjI2IiwidCI6Ijg4MjUzNzVjLWYzYWEtNDEyZi1iZDk5LTlhNjliNmJkM2NkNyJ9" frameborder="0" allowFullScreen="true"></iframe>"
+}
 }
 
   
